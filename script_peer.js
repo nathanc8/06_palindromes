@@ -61,3 +61,5 @@ function getNextPalindromes(x, result) {
 }
 
 getNextPalindromes(8, []);
+
+//test
