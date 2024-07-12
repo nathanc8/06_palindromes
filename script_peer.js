@@ -71,3 +71,6 @@ function isPalindrome(string_chain) {
 }
 
 console.log(isPalindrome("kayak"));
+getNextPalindromes(8, []);
+
+//test
